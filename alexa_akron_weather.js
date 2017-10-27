@@ -8,7 +8,7 @@ const Alexa = require('alexa-sdk');
 const https = require('https');
 const http = require('http');
 
-const APP_ID = 'amzn1.ask.skill.caed3f4d-c6ff-4ff0-9567-efe4607c3689';  
+const APP_ID = 'my-skill-app-id';  
 const availItems = 'available data are temperature,humidity,dewpoint,barometer,forecast,wind,rain,month rain,today,sunrise,sunset';
 
 
