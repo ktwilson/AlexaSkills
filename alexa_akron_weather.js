@@ -1,6 +1,6 @@
 /* eslint-disable  func-names */
 /* eslint quote-props: ["error", "consistent"]*/
-
+//Alexa NodeJS source code for AWS Lambda function used for "Akron Weather" Alexa skill  
 
 'use strict';
 
